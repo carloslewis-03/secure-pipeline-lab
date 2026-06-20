@@ -1,0 +1,3 @@
+# Acknowledged 2026-06-20: DoS in libexpat. Fix (2.8.1-r0) not yet in the
+# published alpine base image. Re-check and remove this line once it lands.
+CVE-2026-45186
