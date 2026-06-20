@@ -1,2 +1,2 @@
-FROM nginxinc/nginx-unprivileged:alpine@sha256:bf3c9328c468b3fad9a9ccc4e24c8ea4da94dc72311dc838a3762c9384bc372d
+FROM nginxinc/nginx-unprivileged:alpine@sha256:26b5d4920434bc4d8c17a68201488cf4b3d2391f0d25305cdfe66ccdc6d18aa4
 COPY index.html /usr/share/nginx/html/index.html
